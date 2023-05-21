@@ -42,7 +42,7 @@ If you don't have airodump-ng and aireplay-ng installed on your system, you can 
 3. Run the script using `sudo ./wifi_deauth_tool.sh`.
 4. Follow the on-screen menu prompts to choose the desired actions.
 
-Please note that unauthorized attacks on devices that you do not own or do not have permission to test are illegal and unethical. Performing such attacks can lead to severe consequences, including legal actions, criminal charges, and penalties. Always ensure that you have proper authorization and legal permissions before using this tool. Use it responsibly, respect privacy and security, and comply with all applicable laws and regulations.
+Please note that unauthorized attacks on devices that you do not own or do not have permission to test are illegal and unethical. Performing such attacks can lead to severe consequences, including legal actions, criminal charges, and penalties. The author of this tool shall not be held responsible for any damages or liabilities caused by the use or misuse of this tool. Always ensure that you have proper authorization and legal permissions before using this tool. Use it responsibly, respect privacy and security, and comply with all applicable laws and regulations.
 
 ## License
 

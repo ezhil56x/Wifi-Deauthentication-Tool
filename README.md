@@ -38,7 +38,7 @@ If you don't have airodump-ng and aireplay-ng installed on your system, you can 
 ## Usage
 
 1. Clone the repository or download the script.
-2. Ensure that the script has executable permissions (`chmod +x wifi_deauth_tool.sh`).
+2. Ensure that the script has executable permissions (`chmod +x wifideauth.sh`).
 3. Run the script using `sudo ./wifideauth.sh`.
 4. Follow the on-screen menu prompts to choose the desired actions.
 
